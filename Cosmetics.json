@@ -116,46 +116,7 @@
                     "cda76c55-f141-461c-aecb-c51e6d2c505f"
                 ],
                 "WitherHeads": [
-                    {
-                        "id": "cc6c1254-c508-4b99-9686-9c80381eadec",
-                        "activated": "false"
-                    },
-                    {
-                        "id": "3ee9da7a-6c11-4f47-83cf-0445a3a6247e",
-                        "activated": "false"
-                    },
-                    {
-                        "id": "e3346987-e388-41dc-98d1-893d9a7a73f5",
-                        "activated": "false"
-                    },
-                    {
-                        "id": "d2518cde-3351-406a-bce6-d3c2806d2058",
-                        "activated": "false"
-                    },
-                    {
-                        "id": "6d481aeb-dd26-4afb-98b3-1e09d2ad05d4",
-                        "activated": "false"
-                    },
-                    {
-                        "id": "ed659413-92a4-4863-b819-a587ab53e322",
-                        "activated": "false"
-                    },
-                    {
-                        "id": "2e1bea58-4e8b-4033-8ada-19d97f44af98",
-                        "activated": "false"
-                    },
-                    {
-                        "id": "888a45a2-86a6-4182-8e59-284df9d3d323",
-                        "activated": "false"
-                    },
-                    {
-                        "id": "589631c3-4c56-49ad-ad09-d94fa179a1f4",
-                        "activated": "false"
-                    },
-                    {
-                        "id": "cda76c55-f141-461c-aecb-c51e6d2c505f",
-                        "activated": "false"
-                    } 
+                    
                 ]
             }
         ]
